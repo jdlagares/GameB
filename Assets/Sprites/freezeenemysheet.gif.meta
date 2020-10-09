@@ -1,0 +1,3164 @@
+fileFormatVersion: 2
+guid: a2e431b618d4c904a9ebc944ed76bb4a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3339253458287024429
+    second: freezeenemysheet_0
+  - first:
+      213: 1587857514321775435
+    second: freezeenemysheet_1
+  - first:
+      213: 189553265754230313
+    second: freezeenemysheet_2
+  - first:
+      213: -2855671662445041074
+    second: freezeenemysheet_3
+  - first:
+      213: -4386727909169704169
+    second: freezeenemysheet_4
+  - first:
+      213: 2364305914963127660
+    second: freezeenemysheet_5
+  - first:
+      213: 6287275805084190825
+    second: freezeenemysheet_6
+  - first:
+      213: -8204771988611187047
+    second: freezeenemysheet_7
+  - first:
+      213: -5404757018485982961
+    second: freezeenemysheet_8
+  - first:
+      213: -3450096162712423934
+    second: freezeenemysheet_9
+  - first:
+      213: 5161535539028957843
+    second: freezeenemysheet_10
+  - first:
+      213: -28435699384277892
+    second: freezeenemysheet_11
+  - first:
+      213: -5034628403877982129
+    second: freezeenemysheet_12
+  - first:
+      213: -7695612557654849150
+    second: freezeenemysheet_13
+  - first:
+      213: 7710728991101672167
+    second: freezeenemysheet_14
+  - first:
+      213: 5224131417553272293
+    second: freezeenemysheet_15
+  - first:
+      213: 6978161573776309558
+    second: freezeenemysheet_16
+  - first:
+      213: -5777272977646532556
+    second: freezeenemysheet_17
+  - first:
+      213: 6206048355104272669
+    second: freezeenemysheet_18
+  - first:
+      213: 7597145238097364962
+    second: freezeenemysheet_19
+  - first:
+      213: -6162948064256815958
+    second: freezeenemysheet_20
+  - first:
+      213: 1190253572494404611
+    second: freezeenemysheet_21
+  - first:
+      213: -4774210627698792450
+    second: freezeenemysheet_22
+  - first:
+      213: 2854247681094130188
+    second: freezeenemysheet_23
+  - first:
+      213: 3456428226115195226
+    second: freezeenemysheet_24
+  - first:
+      213: -1629585493949710533
+    second: freezeenemysheet_25
+  - first:
+      213: 265642117937526396
+    second: freezeenemysheet_26
+  - first:
+      213: -4765131911606350678
+    second: freezeenemysheet_27
+  - first:
+      213: 8208915796857649635
+    second: freezeenemysheet_28
+  - first:
+      213: 4796725217620844707
+    second: freezeenemysheet_29
+  - first:
+      213: -4466971019782351855
+    second: freezeenemysheet_30
+  - first:
+      213: -7833915058399401284
+    second: freezeenemysheet_31
+  - first:
+      213: -7072210260064940519
+    second: freezeenemysheet_32
+  - first:
+      213: 7528096856614092816
+    second: freezeenemysheet_33
+  - first:
+      213: -1169490929193520128
+    second: freezeenemysheet_34
+  - first:
+      213: 7150001233070963713
+    second: freezeenemysheet_35
+  - first:
+      213: -141542539837604671
+    second: freezeenemysheet_36
+  - first:
+      213: -7150001149481411715
+    second: freezeenemysheet_37
+  - first:
+      213: -5076144964165573016
+    second: freezeenemysheet_38
+  - first:
+      213: 6552000257243285445
+    second: freezeenemysheet_39
+  - first:
+      213: -4416452182349380791
+    second: freezeenemysheet_40
+  - first:
+      213: -3445845440581416713
+    second: freezeenemysheet_41
+  - first:
+      213: -4966351277298945916
+    second: freezeenemysheet_42
+  - first:
+      213: -6575288567246269182
+    second: freezeenemysheet_43
+  - first:
+      213: 5108733276786047813
+    second: freezeenemysheet_44
+  - first:
+      213: -2567484847432078772
+    second: freezeenemysheet_45
+  - first:
+      213: -5667008071179189151
+    second: freezeenemysheet_46
+  - first:
+      213: 5539355432614493142
+    second: freezeenemysheet_47
+  - first:
+      213: 5630702247650071575
+    second: freezeenemysheet_48
+  - first:
+      213: 5903624876161778708
+    second: freezeenemysheet_49
+  - first:
+      213: -738878586656927118
+    second: freezeenemysheet_50
+  - first:
+      213: 154702823075966351
+    second: freezeenemysheet_51
+  - first:
+      213: -7267647359757329192
+    second: freezeenemysheet_52
+  - first:
+      213: -7709087846072895726
+    second: freezeenemysheet_53
+  - first:
+      213: 8032998634162885823
+    second: freezeenemysheet_54
+  - first:
+      213: -5596769159076538802
+    second: freezeenemysheet_55
+  - first:
+      213: 2690170436734227342
+    second: freezeenemysheet_56
+  - first:
+      213: 2620988645432185631
+    second: freezeenemysheet_57
+  - first:
+      213: -7578342017785749644
+    second: freezeenemysheet_58
+  - first:
+      213: 203910296798196486
+    second: freezeenemysheet_59
+  - first:
+      213: 2052507092297671173
+    second: freezeenemysheet_60
+  - first:
+      213: -6765399257341937918
+    second: freezeenemysheet_61
+  - first:
+      213: 9122626152848943126
+    second: freezeenemysheet_62
+  - first:
+      213: -2724865121813495777
+    second: freezeenemysheet_63
+  - first:
+      213: 6155606977551833312
+    second: freezeenemysheet_64
+  - first:
+      213: 202752881442807389
+    second: freezeenemysheet_65
+  - first:
+      213: -488393972176091921
+    second: freezeenemysheet_66
+  - first:
+      213: -8770393998431294643
+    second: freezeenemysheet_67
+  - first:
+      213: 8019143744446111780
+    second: freezeenemysheet_68
+  - first:
+      213: 2636646450554931297
+    second: freezeenemysheet_69
+  - first:
+      213: 4888182083299086860
+    second: freezeenemysheet_70
+  - first:
+      213: 6474486369696090832
+    second: freezeenemysheet_71
+  - first:
+      213: -7992377232667298645
+    second: freezeenemysheet_72
+  - first:
+      213: -9018934926299926634
+    second: freezeenemysheet_73
+  - first:
+      213: -8766954164619726696
+    second: freezeenemysheet_74
+  - first:
+      213: -2054627692035426965
+    second: freezeenemysheet_75
+  - first:
+      213: -8221647120784074842
+    second: freezeenemysheet_76
+  - first:
+      213: -3199808019339644806
+    second: freezeenemysheet_77
+  - first:
+      213: -1716474904307726398
+    second: freezeenemysheet_78
+  - first:
+      213: 1973184484098004962
+    second: freezeenemysheet_79
+  - first:
+      213: 9017554703745547706
+    second: freezeenemysheet_80
+  - first:
+      213: -4393081672191031516
+    second: freezeenemysheet_81
+  - first:
+      213: 1021012199725176485
+    second: freezeenemysheet_82
+  - first:
+      213: 2569942897015759373
+    second: freezeenemysheet_83
+  - first:
+      213: -7265324283280194216
+    second: freezeenemysheet_84
+  - first:
+      213: -8228898567089141916
+    second: freezeenemysheet_85
+  - first:
+      213: -9216708691155415621
+    second: freezeenemysheet_86
+  - first:
+      213: 242959642411584205
+    second: freezeenemysheet_87
+  - first:
+      213: 3805616095939677021
+    second: freezeenemysheet_88
+  - first:
+      213: -7204628133126971370
+    second: freezeenemysheet_89
+  - first:
+      213: -4741432885145121436
+    second: freezeenemysheet_90
+  - first:
+      213: 4965537481873936171
+    second: freezeenemysheet_91
+  - first:
+      213: 5853462005823394617
+    second: freezeenemysheet_92
+  - first:
+      213: 8430729008526355069
+    second: freezeenemysheet_93
+  - first:
+      213: -3852349318261779788
+    second: freezeenemysheet_94
+  - first:
+      213: -3036195148385861613
+    second: freezeenemysheet_95
+  - first:
+      213: -8162365553056168609
+    second: freezeenemysheet_96
+  - first:
+      213: 4390080582284276922
+    second: freezeenemysheet_97
+  - first:
+      213: 3532812562980905805
+    second: freezeenemysheet_98
+  - first:
+      213: 8746284915406150029
+    second: freezeenemysheet_99
+  - first:
+      213: -1097693735496790526
+    second: freezeenemysheet_100
+  - first:
+      213: 5115318678340541134
+    second: freezeenemysheet_101
+  - first:
+      213: 4833212542623320202
+    second: freezeenemysheet_102
+  - first:
+      213: 3331052365809374139
+    second: freezeenemysheet_103
+  - first:
+      213: -6464351434594276170
+    second: freezeenemysheet_104
+  - first:
+      213: -3262120753686800994
+    second: freezeenemysheet_105
+  - first:
+      213: -2648388388129518427
+    second: freezeenemysheet_106
+  - first:
+      213: -3395536797947654865
+    second: freezeenemysheet_107
+  - first:
+      213: 2690687740565481523
+    second: freezeenemysheet_108
+  - first:
+      213: 4740490085285137680
+    second: freezeenemysheet_109
+  - first:
+      213: -1347500320999066840
+    second: freezeenemysheet_110
+  - first:
+      213: 8843889508096318355
+    second: freezeenemysheet_111
+  - first:
+      213: -1917546882481418801
+    second: freezeenemysheet_112
+  - first:
+      213: 8115945688987907801
+    second: freezeenemysheet_113
+  - first:
+      213: 6646410077801748781
+    second: freezeenemysheet_114
+  - first:
+      213: -3137468354037670114
+    second: freezeenemysheet_115
+  - first:
+      213: 6098908366413345321
+    second: freezeenemysheet_116
+  - first:
+      213: 264090689775431360
+    second: freezeenemysheet_117
+  - first:
+      213: -617539231755665649
+    second: freezeenemysheet_118
+  - first:
+      213: -7167960658147285340
+    second: freezeenemysheet_119
+  - first:
+      213: 8940358325422320455
+    second: freezeenemysheet_120
+  - first:
+      213: 2530059867212771209
+    second: freezeenemysheet_121
+  - first:
+      213: -7088580313617940015
+    second: freezeenemysheet_122
+  - first:
+      213: -206733210864143662
+    second: freezeenemysheet_123
+  - first:
+      213: 3042369482290909492
+    second: freezeenemysheet_124
+  - first:
+      213: 7645262436082759201
+    second: freezeenemysheet_125
+  - first:
+      213: -6788408661472359681
+    second: freezeenemysheet_126
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 25
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: freezeenemysheet_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 518
+        width: 56
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d6aecbfba698a1d0800000000000000
+      internalID: -3339253458287024429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freezeenemysheet_1
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 518
+        width: 59
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4b85171ff3390610800000000000000
+      internalID: 1587857514321775435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freezeenemysheet_2
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 518
+        width: 56
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92ecb4fd0bd61a200800000000000000
+      internalID: 189553265754230313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freezeenemysheet_3
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 518
+        width: 50
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4a60d4c0cd9e58d0800000000000000
+      internalID: -2855671662445041074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freezeenemysheet_4
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 518
+        width: 39
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 713d5af55363f13c0800000000000000
+      internalID: -4386727909169704169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freezeenemysheet_5
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 518
+        width: 20
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6d6bb9f3b3bfc020800000000000000
+      internalID: 2364305914963127660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freezeenemysheet_6
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 518
+        width: 39
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96883f68804e04750800000000000000
+      internalID: 6287275805084190825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freezeenemysheet_7
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 518
+        width: 50
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99e31cbd85bc22e80800000000000000
+      internalID: -8204771988611187047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freezeenemysheet_8
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 519
+        width: 56
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f09f7d790227ef4b0800000000000000
+      internalID: -5404757018485982961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freezeenemysheet_9
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 519
+        width: 59
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2027694c1dbce10d0800000000000000
+      internalID: -3450096162712423934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freezeenemysheet_10
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 519
+        width: 56
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39a106bc93571a740800000000000000
+      internalID: 5161535539028957843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freezeenemysheet_11
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 519
+        width: 58
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c74a24fc1e9fa9ff0800000000000000
+      internalID: -28435699384277892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freezeenemysheet_12
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 519
+        width: 60
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f40d2ca2428612ab0800000000000000
+      internalID: -5034628403877982129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freezeenemysheet_13
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 442
+        width: 80
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28982f3e621b33590800000000000000
+      internalID: -7695612557654849150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freezeenemysheet_14
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 442
+        width: 82
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eadbe90a23020b60800000000000000
+      internalID: 7710728991101672167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freezeenemysheet_15
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 442
+        width: 81
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ed783b78d7df7840800000000000000
+      internalID: 5224131417553272293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freezeenemysheet_16
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 442
+        width: 79
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63db73ebaf867d060800000000000000
+      internalID: 6978161573776309558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freezeenemysheet_17
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 442
+        width: 79
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4384aec06d003dfa0800000000000000
+      internalID: -5777272977646532556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freezeenemysheet_18
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 442
+        width: 80
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1133e01910502650800000000000000
+      internalID: 6206048355104272669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freezeenemysheet_19
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 442
+        width: 81
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e708d7b75b7e6960800000000000000
+      internalID: 7597145238097364962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freezeenemysheet_20
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 442
+        width: 83
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aac8ac4636fc87aa0800000000000000
+      internalID: -6162948064256815958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freezeenemysheet_21
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 370
+        width: 83
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30c2b256151a48010800000000000000
+      internalID: 1190253572494404611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freezeenemysheet_22
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 370
+        width: 83
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef76e1d9ab89ebdb0800000000000000
+      internalID: -4774210627698792450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freezeenemysheet_23
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 370
+        width: 92
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0a199cb4235c9720800000000000000
+      internalID: 2854247681094130188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freezeenemysheet_24
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 370
+        width: 95
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a51da31a823b7ff20800000000000000
+      internalID: 3456428226115195226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freezeenemysheet_25
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 370
+        width: 92
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3f7ffd80ac8269e0800000000000000
+      internalID: -1629585493949710533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freezeenemysheet_26
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 370
+        width: 85
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c767c0d4910cfa300800000000000000
+      internalID: 265642117937526396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freezeenemysheet_27
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 370
+        width: 80
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aac43dce5c9deddb0800000000000000
+      internalID: -4765131911606350678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freezeenemysheet_28
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 370
+        width: 81
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e9faceac6debe170800000000000000
+      internalID: 8208915796857649635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freezeenemysheet_29
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 291
+        width: 83
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a0e279db24619240800000000000000
+      internalID: 4796725217620844707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freezeenemysheet_30
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 291
+        width: 80
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11498e746812202c0800000000000000
+      internalID: -4466971019782351855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freezeenemysheet_31
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 291
+        width: 47
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cba258f92c7584390800000000000000
+      internalID: -7833915058399401284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freezeenemysheet_32
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 291
+        width: 47
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91ec4f71d367add90800000000000000
+      internalID: -7072210260064940519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freezeenemysheet_33
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 291
+        width: 47
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 010c73d943c297860800000000000000
+      internalID: 7528096856614092816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freezeenemysheet_34
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 291
+        width: 51
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 004f065323225cfe0800000000000000
+      internalID: -1169490929193520128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freezeenemysheet_35
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 291
+        width: 53
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10cbcc83d38e93360800000000000000
+      internalID: 7150001233070963713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freezeenemysheet_36
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 291
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cc7f585fc3290ef0800000000000000
+      internalID: -141542539837604671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freezeenemysheet_37
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 291
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7b968d36d716cc90800000000000000
+      internalID: -7150001149481411715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freezeenemysheet_38
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 291
+        width: 48
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 866e586bc09ed89b0800000000000000
+      internalID: -5076144964165573016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freezeenemysheet_39
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 291
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c7014d15816dea50800000000000000
+      internalID: 6552000257243285445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freezeenemysheet_40
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 291
+        width: 40
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9430197b32c95b2c0800000000000000
+      internalID: -4416452182349380791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freezeenemysheet_41
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 291
+        width: 46
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f8ce3324d5ed20d0800000000000000
+      internalID: -3445845440581416713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freezeenemysheet_42
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 270
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 480f9ce73d9f31bb0800000000000000
+      internalID: -4966351277298945916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freezeenemysheet_43
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 266
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 205599da2e1efb4a0800000000000000
+      internalID: -6575288567246269182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freezeenemysheet_44
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 262
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54bbc0719ddd5e640800000000000000
+      internalID: 5108733276786047813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freezeenemysheet_45
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 234
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4aec9662267e5cd0800000000000000
+      internalID: -2567484847432078772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freezeenemysheet_46
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 234
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 164c7123f2eba51b0800000000000000
+      internalID: -5667008071179189151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freezeenemysheet_47
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 234
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dbfd9dca6ebfdc40800000000000000
+      internalID: 5539355432614493142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freezeenemysheet_48
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 234
+        width: 52
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7141d2b8cd5442e40800000000000000
+      internalID: 5630702247650071575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freezeenemysheet_49
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 234
+        width: 57
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41448cecb83ede150800000000000000
+      internalID: 5903624876161778708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freezeenemysheet_50
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 234
+        width: 61
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 272db2617d9feb5f0800000000000000
+      internalID: -738878586656927118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freezeenemysheet_51
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 234
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8d613fd56d952200800000000000000
+      internalID: 154702823075966351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freezeenemysheet_52
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 234
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dcdbd06b31242b90800000000000000
+      internalID: -7267647359757329192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freezeenemysheet_53
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 234
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2173b80d271d30590800000000000000
+      internalID: -7709087846072895726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freezeenemysheet_54
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 255
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb41a7672b1fa7f60800000000000000
+      internalID: 8032998634162885823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freezeenemysheet_55
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 255
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e46916f4a184452b0800000000000000
+      internalID: -5596769159076538802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freezeenemysheet_56
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 237
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e831dc252c7655520800000000000000
+      internalID: 2690170436734227342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freezeenemysheet_57
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 237
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f135153594f9f5420800000000000000
+      internalID: 2620988645432185631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freezeenemysheet_58
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 240
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47f967b261254d690800000000000000
+      internalID: -7578342017785749644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freezeenemysheet_59
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 176
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60373b6a55f64d200800000000000000
+      internalID: 203910296798196486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freezeenemysheet_60
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 176
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5026f576358fb7c10800000000000000
+      internalID: 2052507092297671173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freezeenemysheet_61
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 176
+        width: 53
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 207317658397c12a0800000000000000
+      internalID: -6765399257341937918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freezeenemysheet_62
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 176
+        width: 53
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 618ef3bf6241a9e70800000000000000
+      internalID: 9122626152848943126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freezeenemysheet_63
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 176
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f108471db955f2ad0800000000000000
+      internalID: -2724865121813495777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freezeenemysheet_64
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 176
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e894e9aeeb1d6550800000000000000
+      internalID: 6155606977551833312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freezeenemysheet_65
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 198
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5ed593eba250d200800000000000000
+      internalID: 202752881442807389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freezeenemysheet_66
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 176
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe4800a1540e839f0800000000000000
+      internalID: -488393972176091921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freezeenemysheet_67
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 200
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4be84f302d494680800000000000000
+      internalID: -8770393998431294643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freezeenemysheet_68
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 176
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 420a1829fb8b94f60800000000000000
+      internalID: 8019143744446111780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freezeenemysheet_69
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 176
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1680f9b2aff379420800000000000000
+      internalID: 2636646450554931297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freezeenemysheet_70
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 176
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c029870c4bf46d340800000000000000
+      internalID: 4888182083299086860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freezeenemysheet_71
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 181
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0da08d8cc0ff9d950800000000000000
+      internalID: 6474486369696090832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freezeenemysheet_72
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 182
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba432f7904f551190800000000000000
+      internalID: -7992377232667298645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freezeenemysheet_73
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 181
+        width: 44
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69f6789087e46d280800000000000000
+      internalID: -9018934926299926634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freezeenemysheet_74
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 183
+        width: 44
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 890b5b7f2a5855680800000000000000
+      internalID: -8766954164619726696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freezeenemysheet_75
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 181
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b653c8efffe7c73e0800000000000000
+      internalID: -2054627692035426965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freezeenemysheet_76
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 182
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a75d09f087d6ed80800000000000000
+      internalID: -8221647120784074842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freezeenemysheet_77
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 187
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7070d94f8ff793d0800000000000000
+      internalID: -3199808019339644806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freezeenemysheet_78
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 189
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c78dd63b2bdd28e0800000000000000
+      internalID: -1716474904307726398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freezeenemysheet_79
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 118
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e759fa75d8226b10800000000000000
+      internalID: 1973184484098004962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freezeenemysheet_80
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 119
+        width: 37
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abdf76bd93ac42d70800000000000000
+      internalID: 9017554703745547706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freezeenemysheet_81
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 113
+        width: 38
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42746c3ae73a803c0800000000000000
+      internalID: -4393081672191031516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freezeenemysheet_82
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 112
+        width: 51
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a695f3af2d5b2e00800000000000000
+      internalID: 1021012199725176485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freezeenemysheet_83
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 114
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d02a9add2754aa320800000000000000
+      internalID: 2569942897015759373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freezeenemysheet_84
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 119
+        width: 53
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8558015ce026c2b90800000000000000
+      internalID: -7265324283280194216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freezeenemysheet_85
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 112
+        width: 51
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4674eef0a541dcd80800000000000000
+      internalID: -8228898567089141916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freezeenemysheet_86
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 113
+        width: 38
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbd0d61174ca71080800000000000000
+      internalID: -9216708691155415621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freezeenemysheet_87
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 118
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcac2bce18a2f5300800000000000000
+      internalID: 242959642411584205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freezeenemysheet_88
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 118
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5b4efd1da340d430800000000000000
+      internalID: 3805616095939677021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freezeenemysheet_89
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 139
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6106e2a72e4040c90800000000000000
+      internalID: -7204628133126971370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freezeenemysheet_90
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 138
+        width: 37
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46dc19289eb033eb0800000000000000
+      internalID: -4741432885145121436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freezeenemysheet_91
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 138
+        width: 37
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2fcbfdf70229e440800000000000000
+      internalID: 4965537481873936171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freezeenemysheet_92
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 138
+        width: 37
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 933595b6eacab3150800000000000000
+      internalID: 5853462005823394617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freezeenemysheet_93
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 123
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7a6bc68d57fff470800000000000000
+      internalID: 8430729008526355069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freezeenemysheet_94
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 81
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b2d946a4b4b98ac0800000000000000
+      internalID: -3852349318261779788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freezeenemysheet_95
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 81
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31042b759944dd5d0800000000000000
+      internalID: -3036195148385861613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freezeenemysheet_96
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 81
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f55c33b86c379be80800000000000000
+      internalID: -8162365553056168609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freezeenemysheet_97
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 81
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab4f46aa703bcec30800000000000000
+      internalID: 4390080582284276922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freezeenemysheet_98
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 49
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d43a382fe42170130800000000000000
+      internalID: 3532812562980905805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freezeenemysheet_99
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 49
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d89142f6acb016970800000000000000
+      internalID: 8746284915406150029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freezeenemysheet_100
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 49
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20eca870d5534c0f0800000000000000
+      internalID: -1097693735496790526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freezeenemysheet_101
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 49
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eca986f5c334df640800000000000000
+      internalID: 5115318678340541134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freezeenemysheet_102
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 49
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8886073335031340800000000000000
+      internalID: 4833212542623320202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freezeenemysheet_103
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 49
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb3da406a764a3e20800000000000000
+      internalID: 3331052365809374139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freezeenemysheet_104
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 46
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bca8bdae920a46a0800000000000000
+      internalID: -6464351434594276170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freezeenemysheet_105
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 41
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e95911e357e9ab2d0800000000000000
+      internalID: -3262120753686800994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freezeenemysheet_106
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 40
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ac4542fac80f3bd0800000000000000
+      internalID: -2648388388129518427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freezeenemysheet_107
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 41
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2d0098c541a0e0d0800000000000000
+      internalID: -3395536797947654865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freezeenemysheet_108
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 41
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33867e18e3e375520800000000000000
+      internalID: 2690687740565481523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freezeenemysheet_109
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 41
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01d8eaacd9a99c140800000000000000
+      internalID: 4740490085285137680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freezeenemysheet_110
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 41
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8233020f897bc4de0800000000000000
+      internalID: -1347500320999066840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freezeenemysheet_111
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 41
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39b92e296aecbba70800000000000000
+      internalID: 8843889508096318355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freezeenemysheet_112
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 5
+        width: 75
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcd898d15418365e0800000000000000
+      internalID: -1917546882481418801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freezeenemysheet_113
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 5
+        width: 64
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d6bc70aa91a1a070800000000000000
+      internalID: 8115945688987907801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freezeenemysheet_114
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 14
+        width: 18
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2913f660cacc3c50800000000000000
+      internalID: 6646410077801748781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freezeenemysheet_115
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 5
+        width: 70
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1f1e8fa7297574d0800000000000000
+      internalID: -3137468354037670114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freezeenemysheet_116
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 5
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 922b9b988dca3a450800000000000000
+      internalID: 6098908366413345321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freezeenemysheet_117
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 5
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ce6d88451d3aa300800000000000000
+      internalID: 264090689775431360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freezeenemysheet_118
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 5
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0ff550375f0e67f0800000000000000
+      internalID: -617539231755665649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freezeenemysheet_119
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 5
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a6e72742c9468c90800000000000000
+      internalID: -7167960658147285340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freezeenemysheet_120
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 5
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74be0876788821c70800000000000000
+      internalID: 8940358325422320455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freezeenemysheet_121
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 5
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98f60bd5b049c1320800000000000000
+      internalID: 2530059867212771209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freezeenemysheet_122
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 5
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d1c9fcf2cd40ad90800000000000000
+      internalID: -7088580313617940015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freezeenemysheet_123
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 5
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d2ba237d39812df0800000000000000
+      internalID: -206733210864143662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freezeenemysheet_124
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 5
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 431507bcceaa83a20800000000000000
+      internalID: 3042369482290909492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freezeenemysheet_125
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 5
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 126b955edad691a60800000000000000
+      internalID: 7645262436082759201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freezeenemysheet_126
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 5
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffa41c6f94abac1a0800000000000000
+      internalID: -6788408661472359681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
